@@ -1,0 +1,14 @@
+name: aa_monday
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - mlxtend
+  - minisom
